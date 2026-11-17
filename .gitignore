@@ -1,0 +1,14 @@
+# Entorno virtual de Python (herramienta local, no parte del sitio)
+venv/
+__pycache__/
+*.pyc
+
+# PDFs personales de prueba y resultados (no subir al repo público)
+data/
+output/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
